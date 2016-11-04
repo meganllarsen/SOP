@@ -1,66 +1,39 @@
-%% \documentclass{wslsop}
+\documentclass{WSLsop}
 
-\documentclass[12pt,letterpaper,titlepage,twoside,onecolumn]{article}
-\usepackage[utf8]{inputenc}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
-\usepackage{graphicx}
-\usepackage[left=0.75in, right=0.75in, top=0.75in, bottom=0.75in]{geometry}
-\usepackage[scaled]{helvet}
-\renewcommand\familydefault{\sfdefault} 
-\usepackage[T1]{fontenc}
+%\usepackage{raged2e}
 
 \begin{document}
-		%% Title Page
-		\textsc{Standard Operating Protocol}
-		\vspace{50mm}
+%% Title Page
+\hfill
+\vspace{50mm}
 		
-		\Huge{Long protocol title}
-		\vspace{5mm}
+\centering
+\Huge{Laboratory User's Guide \\ \normalfont\textit{and} \\ Standard Operating Protocols}
+\vspace{15mm}
 		
-		\normalsize{V1.0}
-		\vspace{15mm}
+\normalsize\textbf{Editor:} M. Larsen
 		
-		\textbf{Author:} M. Larsen, 2016-10-25
+\vspace{15mm}
+Created: August 1994
 		
-		\textbf{Editor:} M. Larsen, 2016-10-25
+Revised: November 2016
 		
-		\vspace{25mm}
-		
-		\textbf{For use with WSL protocols:}
-		\vspace{3mm}
-		
-		\textbf{18\_01\_01} ELISA\_MICROCYSTINS\_WATER
-		
-		\vspace{65mm}
-		\textbf{Water Sciences Laboratory}
-		
-		\small{University of Nebraska-Lincoln East Campus}
-		
-		\small{1840 N. 37th Lincoln, Nebraska USA 68583-0844}
-		
-		\small{p: (402) 474-8213 $\vert$ e: wsl@unl.edu}
-		
+\contact{}
+			
+\clearpage
+\tableofcontents
+\clearpage
+
+% add parts to manual
+%% Quality Assurance Manual
+\part{Quality Assurance Manual}
+
+%% Laboratory User's Guide
+\part{Laboratory User's Guide}
+\include{./manuals/general}
+
+%% Standard Operating Protocols
+\part{Standard Operating Protocols}
+\include{./sops/SOPTemplate}
+
 \end{document}
-
-%% add definitions for section headers, page numbers, Table of Contents, headers, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
