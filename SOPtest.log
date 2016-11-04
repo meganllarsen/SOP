@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.3)  3 NOV 2016 19:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.3)  3 NOV 2016 19:20
 entering extended mode
 **./SOPtest.tex
 (SOPtest.tex
@@ -186,21 +186,21 @@ Package lastpage Info: Please have a look at the pageslts package at
 \everyMPtoPDFconversion=\toks18
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 5.
-LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
-(Font)              scaled to size 16.41594pt on input line 5.
-LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 5.
-LaTeX Font Info:    Font shape `OT1/phv/b/sc' will be
-(Font)              scaled to size 16.41594pt on input line 5.
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 23.63593pt on input line 7.
+(Font)              scaled to size 23.63593pt on input line 6.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 11.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 10.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 11.
+(Font)              scaled to size 9.49997pt on input line 10.
 LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
-(Font)              scaled to size 9.49997pt on input line 15.
+(Font)              scaled to size 9.49997pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
  
 AED: lastpage setting LastPage
 [1
@@ -208,20 +208,21 @@ AED: lastpage setting LastPage
 {C:/Users/mlarsen2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (SOPtest.aux) ) 
 Here is how much of TeX's memory you used:
- 1879 strings out of 493334
- 26701 string characters out of 3128923
- 87192 words of memory out of 3000000
+ 1883 strings out of 493334
+ 26700 string characters out of 3128923
+ 88360 words of memory out of 3000000
  5425 multiletter control sequences out of 15000+200000
- 14711 words of font info for 27 fonts, out of 3000000 for 9000
+ 14190 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,5n,33p,250b,129s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,5n,22p,250b,125s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/d
 vips/fontname/8r.enc}<C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/urw/helvetic/uhvb8a.pfb><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on SOPtest.pdf (1 page, 16341 bytes).
+/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/mlarsen2/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/mlarsen2/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on SOPtest.pdf (1 page, 27126 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
