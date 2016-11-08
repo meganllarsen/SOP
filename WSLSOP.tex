@@ -1,39 +1,45 @@
 \documentclass{WSLsop}
 
-%\usepackage{raged2e}
+\usepackage{booktabs}
+\usepackage{commath}
+
 
 \begin{document}
 %% Title Page
 \hfill
 \vspace{50mm}
+
+\begin{center}
+	\Huge{Laboratory User's Guide} \\ 
+	\Large\normalfont\textit{and} \\ 
+	\Huge{Standard Operating Protocols}
+	
+	\vspace{15mm}
+	
+	\normalsize\textbf{Editor:} M. Larsen
+	
+	\vspace{15mm}
+	Created: August 1994
+	
+	Revised: November 2016
+	
+	\contact{} 
+\end{center}		
 		
-\centering
-\Huge{Laboratory User's Guide \\ \normalfont\textit{and} \\ Standard Operating Protocols}
-\vspace{15mm}
-		
-\normalsize\textbf{Editor:} M. Larsen
-		
-\vspace{15mm}
-Created: August 1994
-		
-Revised: November 2016
-		
-\contact{}
-			
-\clearpage
 \tableofcontents
 \clearpage
 
+
 % add parts to manual
+\part{Manuals}
 %% Quality Assurance Manual
-\part{Quality Assurance Manual}
+\include{./manuals/QAManual}
 
 %% Laboratory User's Guide
-\part{Laboratory User's Guide}
 \include{./manuals/general}
 
-%% Standard Operating Protocols
 \part{Standard Operating Protocols}
+%% Standard Operating Protocols
 \include{./sops/SOPTemplate}
 
 \end{document}

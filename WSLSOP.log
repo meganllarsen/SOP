@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.3)  4 NOV 2016 14:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.3)  8 NOV 2016 16:57
 entering extended mode
 **./WSLSOP.tex
 (WSLSOP.tex
@@ -7,22 +7,20 @@ Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (WSLsop.cls
 Document Class: WSLsop 2016/11/03 Updated formatting for standard operating pro
 ceedures at the Water Sciences Laboratory
-
-("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cl
-s"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
-"
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -49,9 +47,9 @@ Package ifvtex Info: VTeX not detected.
 ex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count87
-\Gm@cntv=\count88
-\c@Gm@tempcnt=\count89
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -68,6 +66,29 @@ ry.cfg"))
 ty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty
+"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty
+"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip43
+\RaggedLeftLeftskip=\skip44
+\RaggedRightLeftskip=\skip45
+\CenteringRightskip=\skip46
+\RaggedLeftRightskip=\skip47
+\RaggedRightRightskip=\skip48
+\CenteringParfillskip=\skip49
+\RaggedLeftParfillskip=\skip50
+\RaggedRightParfillskip=\skip51
+\JustifyingParfillskip=\skip52
+\CenteringParindent=\skip53
+\RaggedLeftParindent=\skip54
+\RaggedRightParindent=\skip55
+\JustifyingParindent=\skip56
+)
 ("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastpa
 ge.sty"
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
@@ -76,8 +97,8 @@ Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 ec.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box26
-\beforetitleunit=\skip43
-\aftertitleunit=\skip44
+\beforetitleunit=\skip57
+\aftertitleunit=\skip58
 \ttl@plus=\dimen111
 \ttl@minus=\dimen112
 \ttl@toksa=\toks16
@@ -107,30 +128,122 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 mds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count90
-))) (WSLSOP.aux (manuals/general.aux) (sops/SOPTemplate.aux))
+\Gread@gobject=\count91
+)))
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\bookta
+bs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen116
+\lightrulewidth=\dimen117
+\cmidrulewidth=\dimen118
+\belowrulesep=\dimen119
+\belowbottomsep=\dimen120
+\aboverulesep=\dimen121
+\abovetopsep=\dimen122
+\cmidrulesep=\dimen123
+\cmidrulekern=\dimen124
+\defaultaddspace=\dimen125
+\@cmidla=\count92
+\@cmidlb=\count93
+\@aboverulesep=\dimen126
+\@belowrulesep=\dimen127
+\@thisruleclass=\count94
+\@lastruleclass=\count95
+\@thisrulewidth=\dimen128
+)
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\commath\commath
+.sty"
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath
+.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext
+.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.
+sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen129
+))
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.
+sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen130
+)
+("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.
+sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen131
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks18
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks19
+\eqnshift@=\dimen132
+\alignsep@=\dimen133
+\tagshift@=\dimen134
+\tagwidth@=\dimen135
+\totwidth@=\dimen136
+\lineht@=\dimen137
+\@envbody=\toks20
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)) (WSLSOP.aux (manuals/QAManual.aux) (manuals/general.aux)
+(sops/SOPTemplate.aux))
 \openout1 = `WSLSOP.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 7.
 
 ("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.f
 d"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 5.
+(Font)              scaled to size 9.49997pt on input line 7.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -139,169 +252,214 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* modes: twoside 
+* h-part:(L,W,R)=(108.405pt, 451.6875pt, 54.2025pt)
 * v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=505.89pt
+* \textwidth=451.6875pt
 * \textheight=686.56499pt
-* \oddsidemargin=-18.06749pt
+* \oddsidemargin=36.13501pt
 * \evensidemargin=-18.06749pt
-* \topmargin=-55.06749pt
+* \topmargin=-48.13498pt
 * \headheight=12.0pt
-* \headsep=25.0pt
+* \headsep=18.06749pt
 * \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
+* \@twosidetrue
+* \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 7.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 5.
+(lastpage)             ! on input line 7.
 
 ("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf
 .mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count91
-\scratchdimen=\dimen116
-\scratchbox=\box27
-\nofMPsegments=\count92
-\nofMParguments=\count93
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count94
-\MPscratchDim=\dimen117
-\MPnumerator=\count95
-\makeMPintoPDFobject=\count96
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count108
+\scratchdimen=\dimen138
+\scratchbox=\box29
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen139
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks23
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 23.63593pt on input line 11.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <24.88> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 11.
+(Font)              scaled to size 23.63593pt on input line 13.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 23.63593pt on input line 11.
+(Font)              scaled to size 13.67995pt on input line 14.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 14.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 14.
+(Font)              scaled to size 9.49997pt on input line 19.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 21.
- [1
+(Font)              scaled to size 8.54997pt on input line 26.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 29.
+ [1{C:/Users/mlarsen2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-{C:/Users/mlarsen2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 24.
-LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
-(Font)              scaled to size 16.41594pt on input line 24.
-LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 24.
-LaTeX Font Info:    Font shape `OT1/phv/b/sc' will be
-(Font)              scaled to size 16.41594pt on input line 24.
+]
+[2
 
-(WSLSOP.toc
+]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 23.63593pt on input line 29.
+ (WSLSOP.toc
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 1.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 11.39996pt on input line 1.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
+(Font)              scaled to size 9.49997pt on input line 19.
 )
 \tf@toc=\write3
 \openout3 = `WSLSOP.toc'.
 
- [2
+ [3] [4
+
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 29.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 29.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 29.
+(Font)              scaled to size 19.70294pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 29.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 19.70294pt on input line 29.
- [3
+(Font)              scaled to size 19.70294pt on input line 34.
+ [5] [6]
+\openout2 = `./manuals/QAManual.aux'.
 
-]
+ (manuals/QAManual.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 16.41594pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
+(Font)              scaled to size 16.41594pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <17.28> not available
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/phv/b/sc' will be
+(Font)              scaled to size 16.41594pt on input line 3.
+\c@numberedCntF=\count114
+[7
+
+
+] [8]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 160.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 160.
+ [9]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 271.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 288.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 309.
+
+[10] [11]
+\c@numberedCntB=\count115
+\c@numberedCntD=\count116
+ [12] [13]) [14]
 \openout2 = `./manuals/general.aux'.
 
  (manuals/general.tex
+Chapter 2.
 Missing character: There is no â in font phvr7t!
 Missing character: There is no € in font phvr7t!
 Missing character: There is no ™ in font phvr7t!
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 11.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 10.
 
 ("C:\Users\mlarsen2\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsphv.f
 d"
 File: omsphv.fd 
 )
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
-) [4
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+ [15
 
-] [5
+
 
 ]
+Overfull \hbox (11.46352pt too wide) in paragraph at lines 32--33
+[]\OT1/phv/m/n/10 General WSL stan-dard op-er-at-ing pro-ce-dures (WSLSOP) and 
+EHS Safe Op-er-at-ing Pro-ce-dures (EHSSOP)
+ []
+
+) [16] [17
+
+
+] [18]
 \openout2 = `./sops/SOPTemplate.aux'.
 
  (sops/SOPTemplate.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
-(Font)              scaled to size 8.54997pt on input line 4.
- [6
+(Font)              scaled to size 23.63593pt on input line 7.
+ [19
 
-] (WSLSOP.toc)
-\tf@toc=\write4
-\openout4 = `WSLSOP.toc'.
 
- [7
-
-]) [8
+]) [20
 
 ]
 
 AED: lastpage setting LastPage
-(WSLSOP.aux (manuals/general.aux) (sops/SOPTemplate.aux)) ) 
+(WSLSOP.aux (manuals/QAManual.aux) (manuals/general.aux) (sops/SOPTemplate.aux)
+) ) 
 Here is how much of TeX's memory you used:
- 1962 strings out of 493334
- 27883 string characters out of 3128923
- 94915 words of memory out of 3000000
- 5469 multiletter control sequences out of 15000+200000
- 27924 words of font info for 47 fonts, out of 3000000 for 9000
+ 2857 strings out of 493334
+ 39235 string characters out of 3128923
+ 111646 words of memory out of 3000000
+ 6322 multiletter control sequences out of 15000+200000
+ 31503 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,5n,35p,1518b,157s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/mlarsen2/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Users/mlar
-sen2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb
-><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/
-uhvb8a.pfb><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvr8a.pfb><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WSLSOP.pdf (8 pages, 46039 bytes).
+ 34i,9n,35p,1518b,231s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontnam
+e/8r.enc}<C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmex10.pfb><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/mlarsen2/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mlarsen2
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:
+/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi7.pfb><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/mlarsen2/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/mlarsen2/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
+s/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y9.pfb><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/hel
+vetic/uhvb8a.pfb><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/urw/helvetic/uhvr8a.pfb><C:/Users/mlarsen2/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on WSLSOP.pdf (20 pages, 165215 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

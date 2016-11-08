@@ -1,23 +1,37 @@
-\contentsline {part}{I\hspace {1em}Quality Assurance Manual}{3}
-\contentsline {part}{II\hspace {1em}Laboratory User's Guide}{3}
-\contentsline {section}{\numberline {1}Introduction}{4}
-\contentsline {section}{\numberline {2}Laboratory Training}{4}
-\contentsline {part}{III\hspace {1em}Standard Operating Protocols}{5}
-\contentsline {section}{\numberline {3}Introduction}{8}
-\contentsline {section}{\numberline {4}Protocol Overview}{8}
-\contentsline {subsection}{\numberline {4.1}Scope and Application}{8}
-\contentsline {subsection}{\numberline {4.2}Sample Sizes}{8}
-\contentsline {subsection}{\numberline {4.3}Limitations}{8}
-\contentsline {section}{\numberline {5}Required Training}{8}
-\contentsline {section}{\numberline {6}Equipment Required}{8}
-\contentsline {section}{\numberline {7}Reagents and Storage}{8}
-\contentsline {section}{\numberline {8}Safety Precautions}{8}
-\contentsline {section}{\numberline {9}Experience User Protocol}{8}
-\contentsline {subsection}{\numberline {9.1}Sample Preparation}{8}
-\contentsline {subsection}{\numberline {9.2}Test Preparation}{8}
-\contentsline {subsection}{\numberline {9.3}Assay Protocol}{8}
-\contentsline {subsection}{\numberline {9.4}Instrumentation and Software Protocol}{8}
-\contentsline {section}{\numberline {10}Data Reduction}{8}
-\contentsline {section}{\numberline {11}Quality Assurance}{8}
-\contentsline {section}{\numberline {12}Hints and Troubleshooting Guide}{8}
-\contentsline {section}{\numberline {13}Additional Information}{8}
+\contentsline {part}{I\hspace {1em}Manuals}{5}
+\contentsline {chapter}{\numberline {1}Quality Assurance Manual}{7}
+\contentsline {section}{\numberline {1.1}Introduction}{7}
+\contentsline {section}{\numberline {1.2}Facility}{7}
+\contentsline {section}{\numberline {1.3}Objectives and Quality Policies }{7}
+\contentsline {section}{\numberline {1.4}Sample Collection, Handling, and Login}{8}
+\contentsline {section}{\numberline {1.5}Analytical Procedures}{8}
+\contentsline {section}{\numberline {1.6}Instrument Calibration and Maintenance}{9}
+\contentsline {section}{\numberline {1.7}Laboratory Quality Control Checks}{10}
+\contentsline {section}{\numberline {1.8}Nonconformity and Corrective Action}{12}
+\contentsline {section}{\numberline {1.9}Data Reduction, Validation and Reporting}{12}
+\contentsline {section}{\numberline {1.10}Documentation and Records}{13}
+\contentsline {section}{\numberline {1.11}Laboratory Organization and Responsibility}{13}
+\contentsline {section}{\numberline {1.12}Procurement}{14}
+\contentsline {chapter}{\numberline {2}Lab User's Guide}{15}
+\contentsline {section}{\numberline {2.1}Introduction}{15}
+\contentsline {section}{\numberline {2.2}Laboratory Training}{15}
+\contentsline {part}{II\hspace {1em}Standard Operating Protocols}{17}
+\contentsline {chapter}{ \bfseries {18}\_01\_01 \normalfont \scshape {Intrument}\_Analytes\_Matrix }{19}
+\contentsline {section}{\numberline {2.3}Introduction}{20}
+\contentsline {section}{\numberline {2.4}Protocol Overview}{20}
+\contentsline {subsection}{\numberline {2.4.1}Scope and Application}{20}
+\contentsline {subsection}{\numberline {2.4.2}Sample Sizes}{20}
+\contentsline {subsection}{\numberline {2.4.3}Limitations}{20}
+\contentsline {section}{\numberline {2.5}Required Training}{20}
+\contentsline {section}{\numberline {2.6}Equipment Required}{20}
+\contentsline {section}{\numberline {2.7}Reagents and Storage}{20}
+\contentsline {section}{\numberline {2.8}Safety Precautions}{20}
+\contentsline {section}{\numberline {2.9}Experience User Protocol}{20}
+\contentsline {subsection}{\numberline {2.9.1}Sample Preparation}{20}
+\contentsline {subsection}{\numberline {2.9.2}Test Preparation}{20}
+\contentsline {subsection}{\numberline {2.9.3}Assay Protocol}{20}
+\contentsline {subsection}{\numberline {2.9.4}Instrumentation and Software Protocol}{20}
+\contentsline {section}{\numberline {2.10}Data Reduction}{20}
+\contentsline {section}{\numberline {2.11}Quality Assurance}{20}
+\contentsline {section}{\numberline {2.12}Hints and Troubleshooting Guide}{20}
+\contentsline {section}{\numberline {2.13}Additional Information}{20}
